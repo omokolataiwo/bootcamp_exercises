@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp_exercises",
+  "version": "1.0.0",
+  "description": "Andela Bootcamp Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha day1/test/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omokolataiwo/bootcamp_exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omokolataiwo/bootcamp_exercises/issues"
+  },
+  "homepage": "https://github.com/omokolataiwo/bootcamp_exercises#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
