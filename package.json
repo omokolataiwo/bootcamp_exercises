@@ -4,7 +4,7 @@
   "description": "Andela Bootcamp Exercises",
   "main": "index.js",
   "scripts": {
-    "test": "mocha day1/test/**.spec.js"
+    "test": "mocha --compilers js:babel-core/register day2/test/**.spec.js"
   },
   "repository": {
     "type": "git",
